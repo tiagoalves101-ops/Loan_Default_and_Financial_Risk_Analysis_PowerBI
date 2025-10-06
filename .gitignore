@@ -1,0 +1,23 @@
+# Power BI
+*.tmp
+*.bak
+*.cache
+*.pbix.lock
+*.pbit.lock
+*.ds
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac
+.DS_Store
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.rar
