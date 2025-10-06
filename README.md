@@ -27,9 +27,11 @@ The dashboard reveals relationships between income, employment type, and default
 ---
 
 ## 📸 Preview
-![Dashboard Page 1](images/dashboard-1.png)
-![Dashboard Page 2](images/dashboard-2.png)
-![Dashboard Page 3](images/dashboard-3.png)
+
+![Dashboard Page 1](dashboards-1.png)
+![Dashboard Page 2](dashboards-2.png)
+![Dashboard Page 3](dashboards-3.png)
+
 
 ---
 
